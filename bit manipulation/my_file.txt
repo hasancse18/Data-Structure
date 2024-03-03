@@ -1,0 +1,52 @@
+For Vgs=2:
+Y=1 Registive:0 0
+Y=1 Registive:11.25 0.5
+Y=1 pinch:15 1
+Y=1 Sat:15 1.5
+Y=1 Sat:15 2
+Y=1 Sat:15 2.5
+Y=1 Sat:15 3
+Y=1 Sat:15 3.5
+Y=1 Sat:15 4
+Y=1 Sat:15 4.5
+Y=1 Sat:15 5
+
+For Vgs=3:
+Y=2 Registive:0 0
+Y=2 Registive:26.25 0.5
+Y=2 Registive:45 1
+Y=2 Registive:56.25 1.5
+Y=2 pinch:60 2
+Y=2 Sat:60 2.5
+Y=2 Sat:60 3
+Y=2 Sat:60 3.5
+Y=2 Sat:60 4
+Y=2 Sat:60 4.5
+Y=2 Sat:60 5
+
+For Vgs=4:
+Y=3 Registive:0 0
+Y=3 Registive:41.25 0.5
+Y=3 Registive:75 1
+Y=3 Registive:101.25 1.5
+Y=3 Registive:120 2
+Y=3 Registive:131.25 2.5
+Y=3 pinch:135 3
+Y=3 Sat:135 3.5
+Y=3 Sat:135 4
+Y=3 Sat:135 4.5
+Y=3 Sat:135 5
+
+For Vgs=5:
+Y=4 Registive:0 0
+Y=4 Registive:56.25 0.5
+Y=4 Registive:105 1
+Y=4 Registive:146.25 1.5
+Y=4 Registive:180 2
+Y=4 Registive:206.25 2.5
+Y=4 Registive:225 3
+Y=4 Registive:236.25 3.5
+Y=4 pinch:240 4
+Y=4 Sat:240 4.5
+Y=4 Sat:240 5
+
