@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int n,i;
+    cout<<"just check"<<endl;
     cin>>n;
     n=n<<1;
 
